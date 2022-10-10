@@ -1,0 +1,15 @@
+div.footer{
+	text-align: center;
+	background-color: #313e75;
+	padding: 15px;
+	display: block;
+	float: left;
+	position: relative;
+	width: 100%;
+	bottom: 0;
+}
+.footer a{
+	color: #ffffff;
+	padding-left: 1vw;
+	padding-right: 1vw;
+}

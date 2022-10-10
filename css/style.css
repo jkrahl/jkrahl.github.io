@@ -1,0 +1,24 @@
+@charset "utf-8";
+body{
+	display: flex;
+	flex-direction:column;
+	position: relative;
+}
+
+main{
+	padding-top: 75px;
+	min-height: calc(100vh - 56px - 56px - 54px);
+}
+
+.card-body{
+	font-size: small;
+}
+
+.recientes{
+	margin: 30px 0px 0px 0px;
+}
+
+.destacados{
+	margin: 30px 0px 0px 0px;
+}
+
